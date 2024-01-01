@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karimhamady&label=Profile%20views&color=0e75b6&style=flat" alt="karimhamady" /> </p>
 
-- 🔭 I’m currently working on **Artificial intelligence algorithms**
-
-- 🌱 I’m currently learning **Python, CSS, JavaScript, Flutter, Docker, Jenkins, data structures and algorithms**
+- 🔭 I’m currently working on **C++**
 
 - 💬 Ask me about **C++, Python**
 
-- 📫 How to reach me **hamady.karim@gmail.com**
+- 📫 How to reach me **kyhamady@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
